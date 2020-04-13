@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\GetPics\GetPics\bin\Debug\netcoreapp2.1\GetPics.deps.json
+C:\Users\User\source\repos\GetPics\GetPics\bin\Debug\netcoreapp2.1\GetPics.runtimeconfig.json
+C:\Users\User\source\repos\GetPics\GetPics\bin\Debug\netcoreapp2.1\GetPics.runtimeconfig.dev.json
+C:\Users\User\source\repos\GetPics\GetPics\bin\Debug\netcoreapp2.1\GetPics.dll
+C:\Users\User\source\repos\GetPics\GetPics\obj\Debug\netcoreapp2.1\GetPics.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GetPics\GetPics\obj\Debug\netcoreapp2.1\GetPics.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GetPics\GetPics\obj\Debug\netcoreapp2.1\GetPics.AssemblyInfo.cs
+C:\Users\User\source\repos\GetPics\GetPics\bin\Debug\netcoreapp2.1\GetPics.pdb
+C:\Users\User\source\repos\GetPics\GetPics\obj\Debug\netcoreapp2.1\GetPics.dll
+C:\Users\User\source\repos\GetPics\GetPics\obj\Debug\netcoreapp2.1\GetPics.pdb
+C:\Users\User\source\repos\GetPics\GetPics\obj\Debug\netcoreapp2.1\GetPics.csprojAssemblyReference.cache
